@@ -7,3 +7,4 @@ Priyanka’s Custom Clothing shop is the online custom clothing solution.  The i
 
 Also, the restriction on designing your clothing based on what the manufacturer specifies has been eliminated. Online custom clothing design applications have been in use over a period of time, and now on several platforms with different implementation and functionalities. Majority have provided similar functions and some of them have in a way streamlined user experience in making their own designs. The application was developed with the aim of breaking the norm and bringing diversity and new functionalities for users in a simple way. Creating a different user experience, improving the company sales and flexibility, gives users remote access to designs and facilitate the ordering process.
 
+
